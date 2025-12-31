@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/018e2748-5375-48f4-ad95-e19ad492dff4.svg)](https://wakatime.com/@018e2748-5375-48f4-ad95-e19ad492dff4)
 <!--
 **lilac1337/lilac1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
